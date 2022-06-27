@@ -1,5 +1,5 @@
 👋 Hi, I’m SHEM MATURI 
-I have aN interest in Tech. 
+I have an interest in Tech. 
 Currently learning my Web development in HTML, CSS and JavaScript from Zuri Team.
 
 - 👀 I’m interested in open source and competitive build ups.
